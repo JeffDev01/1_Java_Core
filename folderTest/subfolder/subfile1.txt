@@ -1,0 +1,2 @@
+Escrevendo um texto aleatorio porque irei precisar disso para zipar, portanto vou escrever algo
+nesse arquivo que irá gerar um outro documento
